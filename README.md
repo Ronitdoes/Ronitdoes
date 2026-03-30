@@ -162,7 +162,7 @@ done
 
 ```
 ╔═══════════════════════════════════════════╗
-║   open to: collabs · projects · ideas     ║                                 ║
+║   open to: collabs · projects · ideas     ║                              
 ╚═══════════════════════════════════════════╝
 ```
 
