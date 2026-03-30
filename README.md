@@ -39,7 +39,7 @@ $ cat about.txt
   ROLE     → Full-Stack Developer & CS Student
   LOCATION → Jaipur, India 🇮🇳
   COLLEGE  → Manipal University Jaipur (B.Tech CSE, 2025–2029)
-  CLUBS    → ACM @ MUJ — Projects & Research Committee
+  CLUBS    → ACM @ MUJ Projects & Research Committee
   TAGLINE  → build. reliable. systems.
   STATUS   → [ONLINE] always building something
 ```
@@ -108,14 +108,10 @@ drwxr-xr-x  FEATURED BUILDS
 │         acm-certificate.vercel.app
 │
 ├── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
-│         Next.js 14 + TailwindCSS + Framer Motion
-│         ASCII animations, mouse parallax, Supabase blog
-│         ronit-port-26.vercel.app
-│
-└── 💌  Cold Email SaaS [WIP]   → AI-powered outreach tool
-          Next.js 14 + Claude API + Gmail OAuth
-          Credit-based model, targeting students & job seekers
-```
+          Next.js 14 + TailwindCSS + Framer Motion
+          ASCII animations, mouse parallax, Supabase blog
+          ronit-port-26.vercel.app
+
 
 ---
 
@@ -179,7 +175,6 @@ done
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Ronitdoes&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
