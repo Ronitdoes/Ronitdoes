@@ -15,7 +15,7 @@
 
 ### `build. reliable. systems.`
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js;Building+things+that+actually+work.;B.Tech+CSE+%40+MUJ+%E2%80%94+2025%E2%80%932029)](https://git.io/typing-svg)
-<br/>
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
 
