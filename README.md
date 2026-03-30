@@ -172,9 +172,6 @@ done
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Ronitdoes&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
 
 ---
 
