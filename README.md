@@ -105,7 +105,7 @@ drwxr-xr-x  FEATURED BUILDS
 │         acm-certificate.vercel.app
 │
 ├── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
-          Next.js 14 + TailwindCSS + Framer Motion
+          Next.js 16 + TailwindCSS + Framer Motion
           ASCII animations, mouse parallax, Supabase blog
           ronit-port-26.vercel.app
 
