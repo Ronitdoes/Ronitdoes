@@ -162,9 +162,11 @@ done
 
 ```
 ╔═══════════════════════════════════════════╗
-║   open to: collabs · projects · ideas     ║                              
+║   open to: collabs · projects · ideas     ║
+║   not open to: bad code & slow deploys    ║
 ╚═══════════════════════════════════════════╝
 ```
+
 
 <br/>
 
