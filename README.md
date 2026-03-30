@@ -1,16 +1,190 @@
-## Hi there 👋
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║          RONIT's GITHUB PROFILE README                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!--
-**Ronitdoes/Ronitdoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```
+██████╗  ██████╗ ███╗   ██╗██╗████████╗
+██╔══██╗██╔═══██╗████╗  ██║██║╚══██╔══╝
+██████╔╝██║   ██║██╔██╗ ██║██║   ██║   
+██╔══██╗██║   ██║██║╚██╗██║██║   ██║   
+██║  ██║╚██████╔╝██║ ╚████║██║   ██║   
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝  
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `build. reliable. systems.`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js;Building+things+that+actually+work.;B.Tech+CSE+%40+MUJ+%E2%80%94+2025%E2%80%932029)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> whoami`
+
+</div>
+
+```bash
+$ cat about.txt
+
+  NAME     → Ronit
+  ROLE     → Full-Stack Developer & CS Student
+  LOCATION → Jaipur, India 🇮🇳
+  COLLEGE  → Manipal University Jaipur (B.Tech CSE, 2025–2029)
+  CLUBS    → ACM @ MUJ — Projects & Research Committee
+  TAGLINE  → build. reliable. systems.
+  STATUS   → [ONLINE] always building something
+```
+
+---
+
+<div align="center">
+
+## `> tech_stack --list`
+
+</div>
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23000.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Backend & DB**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Infra**
+
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ls -la projects/`
+
+</div>
+
+```
+drwxr-xr-x  FEATURED BUILDS
+├── 🌐  mujoneiros.in          → Official Oneiros 2026 Fest Website
+│         React + Vite + Three.js + Blender GLB world
+│         Custom 3D Minecraft-style waypoint navigation
+│
+├── 🃏  LiveCards               → Real-time Q&A for ACM JC Summit
+│         Next.js + WebSocket (Express) + Supabase
+│         Deployed → Vercel + Railway
+│
+├── 📜  ACM Cert Platform       → Certificate generation system
+│         acm-certificate.vercel.app
+│
+├── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
+│         Next.js 14 + TailwindCSS + Framer Motion
+│         ASCII animations, mouse parallax, Supabase blog
+│         ronit-port-26.vercel.app
+│
+└── 💌  Cold Email SaaS [WIP]   → AI-powered outreach tool
+          Next.js 14 + Claude API + Gmail OAuth
+          Credit-based model, targeting students & job seekers
+```
+
+---
+
+<div align="center">
+
+## `> git log --stats`
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitdoes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&icon_color=22C55E&text_color=a3a3a3&ring_color=22C55E)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitdoes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=a3a3a3)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> cat currently_loading.sh`
+
+</div>
+
+```bash
+#!/bin/bash
+
+CURRENT_FOCUS=(
+  "📚  Fullstack: Next.js → React → Node.js deepdive"
+  "☕  Java → Spring Boot (placement prep)"
+  "🔨  Building in public — one project at a time"
+  "🎮  Genshin Impact, when brain needs a break"
+)
+
+for item in "${CURRENT_FOCUS[@]}"; do
+  echo "$item"
+done
+
+# status: [=============================>  ] 97% caffeinated
+```
+
+---
+
+<div align="center">
+
+## `> ping me`
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ronit--port--26.vercel.app-%2322C55E?style=for-the-badge&labelColor=0d0d0d)](https://ronit-port-26.vercel.app)
+
+<br/>
+
+```
+╔═══════════════════════════════════════════╗
+║   open to: collabs · projects · ideas     ║
+║   not open to: bad code & slow deploys    ║
+╚═══════════════════════════════════════════╝
+```
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Ronitdoes&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+---
+
+*`$ echo "build. reliable. systems." && exit 0`*
+
+</div>
