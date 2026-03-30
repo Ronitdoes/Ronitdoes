@@ -108,13 +108,10 @@ drwxr-xr-x  FEATURED BUILDS
 │         acm-certificate.vercel.app
 │
 ├── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
-│         Next.js 14 + TailwindCSS + Framer Motion
-│         ASCII animations, mouse parallax, Supabase blog
-│         ronit-port-26.vercel.app
-│
-└── 💌  Cold Email SaaS [WIP]   → AI-powered outreach tool
-          Next.js 14 + Claude API + Gmail OAuth
-          Credit-based model, targeting students & job seekers
+          Next.js 14 + TailwindCSS + Framer Motion
+          ASCII animations, mouse parallax, Supabase blog
+          ronit-port-26.vercel.app
+
 ```
 
 ---
@@ -124,10 +121,6 @@ drwxr-xr-x  FEATURED BUILDS
 ## `> git log --stats`
 
 <br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitdoes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&icon_color=22C55E&text_color=a3a3a3&ring_color=22C55E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitdoes&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=a3a3a3)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555)
 
