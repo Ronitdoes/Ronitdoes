@@ -6,9 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/header.svg" width="100%" alt="Ronit Mahajan"/>
 
+<br/>
 
-
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur;ACM+%40+MUJ+—+Projects+%26+Research)](https://git.io/typing-svg)
 
 <br/>
@@ -120,10 +119,7 @@ drwxr-xr-x  FEATURED BUILDS
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555)
 
-<br/>
 
-<!-- Snake contribution graph — set up the GitHub Action at: https://github.com/Platane/snk -->
-![Snake animation](https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -175,13 +171,5 @@ done
 ---
 
 *`$ echo "build. reliable. systems." && exit 0`*
-
-</div>
-
-*`$ echo "build. reliable. systems." && exit 0`*
-
-<br/>
-
-
 
 </div>
