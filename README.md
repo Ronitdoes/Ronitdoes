@@ -11,7 +11,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
 
 <br/>
+
 ## `> contact me`
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
@@ -121,8 +124,6 @@ $ cat about.txt
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555&count_private=true)
 
-
-
 </div>
 
 ---
@@ -154,19 +155,13 @@ done
 
 <div align="center">
 
-
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║      OPEN TO:  collabs  ·  projects  ·  ideas                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# OPEN TO: collabs · projects · ideas
 
 ---
 
 *`$ echo "build. reliable. systems." && exit 0`*
 
 </div>
+
