@@ -177,6 +177,6 @@ done
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/signature.svg" width="140" alt="Ronit's signature" />
+
 
 </div>
