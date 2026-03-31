@@ -11,6 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
 
 <br/>
+## `> contact me`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
@@ -153,11 +154,6 @@ done
 
 <div align="center">
 
-## `> ping me`
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ronit--port--26.vercel.app-%2322C55E?style=for-the-badge&labelColor=0d0d0d)](https://ronit-port-26.vercel.app)
 
 <br/>
 
