@@ -135,7 +135,7 @@ $ cat about.txt
 
 CURRENT_FOCUS=(
   "📚  Fullstack: React → Next.js deepdive"
-  "☕  Java: DSA + Spring Boot (placement prep)"
+  "☕  Java: DSA + Spring Boot "
   "🔨  Building in public — one project at a time"
   "🎮  Genshin Impact, when brain needs a break"
 )
