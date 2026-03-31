@@ -117,7 +117,7 @@ drwxr-xr-x  FEATURED BUILDS
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555&count_private=true)
 
 
 
