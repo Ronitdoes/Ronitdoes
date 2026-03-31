@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -36,15 +36,15 @@
 ```bash
 $ cat about.txt
 
-  NAME     → Ronit
-  ROLE     → Full-Stack Developer & CS Student
-  LOCATION → Jaipur, India 🇮🇳
-  COLLEGE  → Manipal University Jaipur (B.Tech CSE, 2025–2029(prolly))
-  PHILOSOPHY  → build. reliable. systems.
-  STATUS   → [ONLINE] always building something
+  NAME        →  Ronit
+  ROLE        →  Full-Stack Developer & CS Student
+  LOCATION    →  Jaipur, India 🇮🇳
+  COLLEGE     →  Manipal University Jaipur (B.Tech CSE, 2025–2029(prolly))
+  PHILOSOPHY  →  build. reliable. systems.
+  STATUS      →  [ONLINE] always building something
 ```
 
----
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -87,7 +87,7 @@ $ cat about.txt
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -114,7 +114,7 @@ $ cat about.txt
           ronit-port-26.vercel.app
 ```
 
----
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -126,7 +126,7 @@ $ cat about.txt
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -139,7 +139,7 @@ $ cat about.txt
 
 CURRENT_FOCUS=(
   "📚  Fullstack: React → Next.js deepdive"
-  "☕  Java: DSA + Spring Boot "
+  "☕  Java: DSA + Spring Boot"
   "🔨  Building in public — one project at a time"
   "🎮  Genshin Impact, when brain needs a break"
 )
@@ -151,7 +151,7 @@ done
 # status: [=============================>  ] 97% caffeinated
 ```
 
----
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -159,7 +159,7 @@ done
 
 # OPEN TO: collabs · projects · ideas
 
----
+<br/>
 
 *`$ echo "build. reliable. systems." && exit 0`*
 
