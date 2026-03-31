@@ -8,6 +8,7 @@
 
 <br/>
 
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur;ACM+%40+MUJ+—+Projects+%26+Research)](https://git.io/typing-svg)
 
 <br/>
