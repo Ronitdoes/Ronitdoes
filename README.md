@@ -5,16 +5,19 @@
 <div align="center">
 
 ```
-██████╗  ██████╗ ███╗   ██╗██╗████████╗
-██╔══██╗██╔═══██╗████╗  ██║██║╚══██╔══╝
-██████╔╝██║   ██║██╔██╗ ██║██║   ██║   
-██╔══██╗██║   ██║██║╚██╗██║██║   ██║   
-██║  ██║╚██████╔╝██║ ╚████║██║   ██║   
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝  
+  ____             _ _     __  __       _           _            
+ |  _ \ ___  _ __ (_) |_  |  \/  | __ _| |__   __ _(_) __ _ _ __  
+ | |_) / _ \| '_ \| | __| | |\/| |/ _` | '_ \ / _` | |/ _` | '_ \ 
+ |  _ < (_) | | | | | |_  | |  | | (_| | | | | (_| | | (_| | | | |
+ |_| \_\___/|_| |_|_|\__| |_|  |_|\__,_|_| |_|\__,_| |\__,_|_| |_|
+                                                  |__/            
 ```
 
 ### `build. reliable. systems.`
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js;Building+things+that+actually+work.;B.Tech+CSE+%40+MUJ+%E2%80%94+2025%E2%80%932029)](https://git.io/typing-svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
@@ -77,6 +80,7 @@ $ cat about.txt
 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -104,11 +108,10 @@ drwxr-xr-x  FEATURED BUILDS
 ├── 📜  ACM Cert Platform       → Certificate generation system
 │         acm-certificate.vercel.app
 │
-├── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
-          Next.js 16 + TailwindCSS + Framer Motion
+└── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
+          Next.js 14 + TailwindCSS + Framer Motion
           ASCII animations, mouse parallax, Supabase blog
           ronit-port-26.vercel.app
-
 ```
 
 ---
@@ -135,8 +138,8 @@ drwxr-xr-x  FEATURED BUILDS
 #!/bin/bash
 
 CURRENT_FOCUS=(
-  "📚  Fullstack: Next.js → React → Node.js deepdive"
-  "☕  Java → Spring Boot (placement prep)"
+  "📚  Fullstack: React → Next.js deepdive"
+  "☕  Java: DSA + Spring Boot (placement prep)"
   "🔨  Building in public — one project at a time"
   "🎮  Genshin Impact, when brain needs a break"
 )
@@ -161,17 +164,19 @@ done
 <br/>
 
 ```
-╔═══════════════════════════════════════════╗
-║   open to: collabs · projects · ideas     ║
-║   not open to: bad code & slow deploys    ║
-╚═══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      OPEN TO:  collabs  ·  projects  ·  ideas                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-
-<br/>
-
 
 ---
 
 *`$ echo "build. reliable. systems." && exit 0`*
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/signature.svg" width="140" alt="Ronit's signature" />
+
+</div>
