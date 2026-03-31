@@ -14,6 +14,8 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronit-mahajan)
+[![Gmail](https://img.shields.io/badge/MAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitdoes@gmail.com)
 
 </div>
 
