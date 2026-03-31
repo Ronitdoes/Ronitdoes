@@ -33,9 +33,8 @@ $ cat about.txt
   NAME     → Ronit
   ROLE     → Full-Stack Developer & CS Student
   LOCATION → Jaipur, India 🇮🇳
-  COLLEGE  → Manipal University Jaipur (B.Tech CSE, 2025–2029)
-  CLUBS    → ACM @ MUJ — Projects & Research Committee
-  TAGLINE  → build. reliable. systems.
+  COLLEGE  → Manipal University Jaipur (B.Tech CSE, 2025–2029(prolly))
+  PHILOSOPHY  → build. reliable. systems.
   STATUS   → [ONLINE] always building something
 ```
 
@@ -91,21 +90,21 @@ $ cat about.txt
 </div>
 
 ```
-drwxr-xr-x  FEATURED BUILDS
-├── 🌐  mujoneiros.in          → Official Oneiros 2026 Fest Website
+  FEATURED BUILDS
+├── 🌐   Oneiros'26   mujoneiros.in          → Official Oneiros 2026 Fest Website
 │         React + Vite + Three.js + Blender GLB world
 │         Custom 3D Minecraft-style waypoint navigation
 │
-├── 🃏  LiveCards               → Real-time Q&A for ACM JC Summit
+├── 🃏   JC-Summit Cards              → Real-time Q&A for ACM JC Summit
 │         Next.js + WebSocket (Express) + Supabase
-│         Deployed → Vercel + Railway
+│         Deployed → Render (Static + Web Service)
 │
-├── 📜  ACM Cert Platform       → Certificate generation system
+├── 📜   ACM Cert Platform       → Certificate generation system
 │         acm-certificate.vercel.app
 │
-└── 🚀  Personal Portfolio      → Terminal-aesthetic dev portfolio
-          Next.js 14 + TailwindCSS + Framer Motion
-          ASCII animations, mouse parallax, Supabase blog
+└── 🚀   Personal Portfolio      → Terminal-aesthetic dev portfolio
+          Next.js 16+ TailwindCSS + Framer Motion
+          ASCII animations, Supabase blog
           ronit-port-26.vercel.app
 ```
 
