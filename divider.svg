@@ -1,0 +1,25 @@
+<svg width="900" height="24" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="24" fill="#0a0a0a"/>
+
+  <!-- Static dim line -->
+  <line x1="0" y1="12" x2="900" y2="12" stroke="#22C55E" stroke-width="0.4" opacity="0.15"/>
+
+  <!-- Animated travelling highlight -->
+  <rect x="-200" y="9" width="180" height="6" rx="3" fill="#22C55E" opacity="0.18">
+    <animateTransform attributeName="transform" type="translate" from="-200 0" to="1100 0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner dots -->
+  <circle cx="12" cy="12" r="2.5" fill="#22C55E" opacity="0.5"/>
+  <circle cx="888" cy="12" r="2.5" fill="#22C55E" opacity="0.5"/>
+
+  <!-- Center diamond -->
+  <polygon points="450,7 455,12 450,17 445,12" fill="none" stroke="#22C55E" stroke-width="1" opacity="0.4"/>
+  <circle cx="450" cy="12" r="1.5" fill="#22C55E" opacity="0.6"/>
+
+  <!-- Small tick marks -->
+  <line x1="150" y1="9" x2="150" y2="15" stroke="#22C55E" stroke-width="0.8" opacity="0.2"/>
+  <line x1="300" y1="9" x2="300" y2="15" stroke="#22C55E" stroke-width="0.8" opacity="0.2"/>
+  <line x1="600" y1="9" x2="600" y2="15" stroke="#22C55E" stroke-width="0.8" opacity="0.2"/>
+  <line x1="750" y1="9" x2="750" y2="15" stroke="#22C55E" stroke-width="0.8" opacity="0.2"/>
+</svg>
