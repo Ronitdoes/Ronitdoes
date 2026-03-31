@@ -46,7 +46,7 @@
   <circle cx="68" cy="24" r="5" fill="#28c940"/>
 
   <!-- Window title -->
-  <text x="450" y="28" font-family="Courier New, monospace" font-size="11" fill="#555" text-anchor="middle">ronit@github ~ bash</text>
+  <text x="450" y="28" font-family="Courier New, monospace" font-size="11" fill="#555" text-anchor="middle">Ronitdoes@github ~ bash</text>
 
   <!-- Separator -->
   <line x1="10" y1="38" x2="890" y2="38" stroke="#22C55E" stroke-width="0.5" opacity="0.3"/>
