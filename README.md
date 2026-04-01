@@ -132,8 +132,6 @@ $ cat about.txt
 
 ## `> cat currently_loading.sh`
 
-<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/assets/bongo-cat-transparent.gif" width="120" align="right"/>
-
 </div>
 
 ```bash
@@ -166,3 +164,4 @@ done
 *`$ echo "build. reliable. systems." && exit 0`*
 
 </div>
+
