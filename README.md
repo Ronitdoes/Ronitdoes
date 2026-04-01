@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronit-port-26.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23171717?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronit-mahajan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23171717?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iJTIzMjJDNTVFIiBkPSJNMTkgM2EyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNG0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4zMiAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGExLjQgMS40IDAgMCAxIDEuNCAxLjR2NC45M2gyLjc5TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4YzAtLjkzLS43NS0xLjY5LTEuNjgtMS42OWExLjY5IDEuNjkgMCAwIDAtMS42OSAxLjY5YzAgLjkzLjc2IDEuNjggMS42OSAxLjY4bTEuMzkgOS45NHYtOC4zN0g1LjV2OC4zN2gyLjc3eiIvPjwvc3ZnPg==)](https://linkedin.com/in/ronit-mahajan)
 [![Gmail](https://img.shields.io/badge/MAIL-%23171717?style=for-the-badge&logo=gmail&logoColor=%2322C55E)](mailto:ronitdoes@gmail.com)
 
 </div>
