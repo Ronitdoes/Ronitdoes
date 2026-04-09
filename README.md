@@ -91,28 +91,6 @@ $ cat about.txt
 
 <div align="center">
 
-## `> ls -la projects/`
-
-</div>
-
-```
-  FEATURED BUILDS
-├── 🌐   Oneiros'26   mujoneiros.in          → Official Oneiros 2026 Fest Website
-│         React + Vite + Three.js + Blender GLB world
-│         Custom 3D Minecraft-style waypoint navigation
-│
-├── 🃏   JC-Summit Cards              → Real-time Q&A for ACM JC Summit
-│         Next.js + WebSocket (Express) + Supabase
-│         Deployed → Render (Static + Web Service)
-│
-├── 📜   ACM Cert Platform       → Certificate generation system
-│         acm-certificate.vercel.app
-│
-└── 🚀   Personal Portfolio      → Terminal-aesthetic dev portfolio
-          Next.js 16+ TailwindCSS + Framer Motion
-          ASCII animations, Supabase blog
-          ronit-port-26.vercel.app
-```
 
 <img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
