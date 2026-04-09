@@ -89,7 +89,7 @@ $ cat about.txt
 
 <img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
-
+<div align="center">
 ## `> git log --stats`
 
 <br/>
