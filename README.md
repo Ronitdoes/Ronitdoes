@@ -99,30 +99,6 @@ $ cat about.txt
 
 <img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
-<div align="center">
-
-## `> cat currently_loading.sh`
-
-</div>
-
-```bash
-#!/bin/bash
-
-CURRENT_FOCUS=(
-  "📚  Fullstack: React → Next.js deepdive"
-  "☕  Java: DSA + Spring Boot"
-  "🔨  Building in public — one project at a time"
-  "🎮  Genshin Impact, when brain needs a break"
-)
-
-for item in "${CURRENT_FOCUS[@]}"; do
-  echo "$item"
-done
-
-# status: [=============================>  ] 97% caffeinated
-```
-
-<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
 
 <div align="center">
 
