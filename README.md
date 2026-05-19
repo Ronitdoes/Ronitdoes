@@ -29,25 +29,6 @@
 
 <div align="center">
 
-## `> whoami`
-
-</div>
-
-```bash
-$ cat about.txt
-
-  NAME        →  Ronit
-  ROLE        →  Full-Stack Developer & CS Student
-  LOCATION    →  Jaipur, India 🇮🇳
-  COLLEGE     →  Manipal University Jaipur (B.Tech CSE, 2025–2029(prolly))
-  PHILOSOPHY  →  build. reliable. systems.
-  STATUS      →  [ONLINE] always building something
-```
-
-<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/divider.svg" width="100%"/>
-
-<div align="center">
-
 ## `> tech_stack --list`
 
 </div>
