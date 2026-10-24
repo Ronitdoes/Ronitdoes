@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=FF2C2C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+things+that+actually+work.;B.Tech+CSE+%40+Manipal+University+Jaipur)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,10 +18,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2322C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://ronitdev707.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%2322C55E)](https://github.com/Ronitdoes)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23171717.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzIyQzU1RSIgZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMzIgMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4=)](https://linkedin.com/in/ronit-mahajan)
-[![Gmail](https://img.shields.io/badge/MAIL-%23171717?style=for-the-badge&logo=gmail&logoColor=%2322C55E)](mailto:ronitdoeswork@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23FF2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://ronitdev707.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23171717?style=for-the-badge&logo=github&logoColor=%23FF2C2C)](https://github.com/Ronitdoes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23171717.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGMkMyQyIgZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMzIgMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4=)](https://linkedin.com/in/ronit-mahajan)
+[![Gmail](https://img.shields.io/badge/MAIL-%23171717?style=for-the-badge&logo=gmail&logoColor=%23FF2C2C)](mailto:ronitdoeswork@gmail.com)
 
 </div>
 
@@ -78,7 +78,7 @@
   
 ## `> git log --stats`
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=a3a3a3&dates=555555&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ronitdoes&theme=dark&hide_border=true&background=0d0d0d&ring=FF2C2C&fire=FF2C2C&currStreakLabel=FF2C2C&sideLabels=a3a3a3&dates=555555&count_private=true)
 
 </div>
 
