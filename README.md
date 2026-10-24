@@ -1,10 +1,12 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          RONIT's GITHUB PROFILE README                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ======================================================== -->
+<!--              RONIT's GITHUB PROFILE README                -->
+<!-- ======================================================== -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/header.svg" width="100%" alt="Ronit Mahajan"/>
+<a href="https://ronitdev707.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Ronitdoes/Ronitdoes/main/header.svg" width="100%" alt="Ronit Mahajan - Creative Developer"/>
+</a>
 
 <br/>
 
@@ -87,7 +89,7 @@
 
 <br/>
 
-# OPEN TO: collabs · projects · ideas
+# OPEN TO: collabs • projects • ideas
 
 <br/>
 
